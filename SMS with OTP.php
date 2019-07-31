@@ -1,4 +1,7 @@
 <?php
+        // control.textlocal.in
+
+
 	// Authorisation details.
 	$username = "panditjiwebsite@gmail.com";
 	$hash = "87a6eb3018f89f01818a7b717c59160f46191707bf90d8e7192228a924e98b04";
